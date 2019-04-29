@@ -1,2 +1,2 @@
 # Python-Projects
-Here are some python projects 
+Here are some of my python scripts 
